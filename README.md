@@ -23,14 +23,6 @@ This is a simple web application that generates random jokes. It uses the JokeAP
 2. Open the `index.html` file in your browser.
 3. Click the "Generate Joke" button to display a new random joke.
 
-## Future Improvements
-
-- Add more joke categories
-- Implement a favorite joke feature
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contributing
 
@@ -38,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Your Name - YourEmail@example.com
+Your Name - yadavyogesh404@gmail.com 

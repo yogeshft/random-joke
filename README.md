@@ -1,6 +1,6 @@
 # Random Joke Generator
 
-This is a simple web application that generates random jokes. It uses the JokeAPI to fetch jokes and displays them on the webpage.
+This is a simple web application that generates random jokes. It uses the JokeAPI to fetch jokes and display them on the webpage.
 
 ## Technologies Used
 
@@ -30,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Your Name - yadavyogesh404@gmail.com 
+ yadavyogesh404@gmail.com 
